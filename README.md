@@ -38,13 +38,6 @@ node filename.js
 Example:
 
 node arraySum.js
-🚀 Next Step
-Move towards:
 
-Objects & Arrays (advanced)
-DOM Manipulation
-Backend basics with Express.js
-📌 Note
-This is part of Week 1 practice for building a strong base before diving into full MERN stack development.
 
 
